@@ -12,8 +12,6 @@ dependencies:
   - mpi4py
   - networkx
   - pandas
-  - bs4
-  - sklearn
   - scikit-image
   - scikit-learn
   - sympy

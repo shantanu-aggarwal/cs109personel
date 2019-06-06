@@ -14,5 +14,6 @@ dependencies:
   - pandas
   - scikit-image
   - scikit-learn
+  - beautifulsoup4
   - seaborn
   - sympy

@@ -12,7 +12,6 @@ dependencies:
   - mpi4py
   - networkx
   - pandas
-  - secret
   - scikit-image
   - scikit-learn
   - beautifulsoup4
